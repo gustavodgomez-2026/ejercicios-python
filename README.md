@@ -1,2 +1,2 @@
 # ejercicios-python
-Ejercicios de Pythom
+Ejercicios de Python
